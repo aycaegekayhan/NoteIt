@@ -7,3 +7,7 @@
 
 
 ![image](https://user-images.githubusercontent.com/54589042/207226189-9f272197-bfff-41ce-b5c4-5d4d40d141ef.png)
+
+To run the application in the developement mode you may use npm start.
+
+In case you make changes, the page will refresh. 
